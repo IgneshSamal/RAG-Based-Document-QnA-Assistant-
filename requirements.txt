@@ -1,0 +1,16 @@
+langchain
+langchain-openai
+langchain-groq
+langchain-google-genai
+dotenv
+streamlit
+langchain-ollama
+serpapi-search-tools
+langgraph
+langchain_community
+pypdf
+beautifulsoup4
+wikipedia
+langchain-text-splitters
+langchain-chroma
+pydantic 
